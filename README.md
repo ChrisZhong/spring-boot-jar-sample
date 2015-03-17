@@ -1,5 +1,8 @@
 spring-boot-jar-sample
 ======================
+**Continuous Integration**: [![Build Status](https://travis-ci.org/ChrisZhong/spring-boot-jar-sample.svg?branch=master)](https://travis-ci.org/ChrisZhong/spring-boot-jar-sample)
+
+##Instructions
 This is a spring-boot example that builds an executable jar file for loading externally located application.properties file by using the environment variables.
 
 1. The sample application.properties file is located in the root of this project. You can move it to whatever location you desire.
